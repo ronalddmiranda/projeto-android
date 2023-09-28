@@ -1,9 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
-- name: Checout master and current branch
-  # You may pin to the exact commit or the version.
-  # uses: Samox/checkout-master-and-current@7e9ceae3b102a1f3fd4f2c9892d8a245829d97b2
-  uses: Samox/checkout-master-and-current@v1.0.0
 on:
   # Runs on pushes targeting the default branch
   push:
