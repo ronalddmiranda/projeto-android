@@ -43,7 +43,7 @@ header {
     max-width: 500px;
     padding: 10px;
     line-height: 1.5em;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
 }
 #Cabeçalho > ul {
     display: flex;
